@@ -1,0 +1,9 @@
+*.sql
+*.zip
+*.log
+error_log
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
